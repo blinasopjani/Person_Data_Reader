@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\PersonDataReader\FileDataReader\bin\Debug\FileDataReader.exe.config
+C:\Users\Admin\Desktop\PersonDataReader\FileDataReader\bin\Debug\FileDataReader.exe
+C:\Users\Admin\Desktop\PersonDataReader\FileDataReader\bin\Debug\FileDataReader.pdb
+C:\Users\Admin\Desktop\PersonDataReader\FileDataReader\obj\Debug\FileDataReader.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PersonDataReader\FileDataReader\obj\Debug\FileDataReader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PersonDataReader\FileDataReader\obj\Debug\FileDataReader.exe
+C:\Users\Admin\Desktop\PersonDataReader\FileDataReader\obj\Debug\FileDataReader.pdb

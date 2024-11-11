@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\PersonDataReader\ListDataReader\bin\Debug\ListDataReader.exe.config
+C:\Users\Admin\Desktop\PersonDataReader\ListDataReader\bin\Debug\ListDataReader.exe
+C:\Users\Admin\Desktop\PersonDataReader\ListDataReader\bin\Debug\ListDataReader.pdb
+C:\Users\Admin\Desktop\PersonDataReader\ListDataReader\obj\Debug\ListDataReader.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PersonDataReader\ListDataReader\obj\Debug\ListDataReader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PersonDataReader\ListDataReader\obj\Debug\ListDataReader.exe
+C:\Users\Admin\Desktop\PersonDataReader\ListDataReader\obj\Debug\ListDataReader.pdb
